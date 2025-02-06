@@ -1,32 +1,24 @@
 {
-  "name": "plugin-sample",
-  "author": "Vanessa",
-  "url": "https://github.com/siyuan-note/plugin-sample",
-  "version": "0.3.7",
-  "minAppVersion": "3.1.11",
+  "name": "ai-side",
+  "author": "hhy5562877",
+  "url": "https://github.com/hhy5562877/ai-side",
+  "version": "0.1.0",
+  "minAppVersion": "2.8.8",
   "backends": [
     "windows",
     "linux",
-    "darwin",
-    "ios",
-    "android",
-    "harmony",
-    "docker"
+    "darwin"
   ],
   "frontends": [
-    "desktop",
-    "mobile",
-    "browser-desktop",
-    "browser-mobile",
-    "desktop-window"
+    "desktop"
   ],
   "displayName": {
-    "default": "Plugin Sample",
-    "zh_CN": "插件示例"
+    "default": "AI Side",
+    "zh_CN": "AI 助手"
   },
   "description": {
-    "default": "This is a plugin sample",
-    "zh_CN": "这是一个插件示例"
+    "default": "An AI chat assistant for SiYuan Note",
+    "zh_CN": "思源笔记的AI对话助手"
   },
   "readme": {
     "default": "README.md",
@@ -41,7 +33,8 @@
     ]
   },
   "keywords": [
-    "sample",
-    "示例"
+    "AI",
+    "AI Side"
   ]
+
 }
